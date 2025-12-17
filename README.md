@@ -129,11 +129,3 @@ If not set, the application defaults to a local or in-memory configuration.
 * Migration to GUI or REST API
 
 ---
-
-## 📄 License
-
-This project is intended for educational and learning purposes. You are free to modify and extend it as needed.
-
----
-
-*Designed to be simple, extensible, and easy to understand for backend and Java learners.*
